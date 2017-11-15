@@ -5,58 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd58e1cd-31d1-4931-8cff-341c9ef19c74" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/database/DatabaseConnexion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/main/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/match/Match.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/Player.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/Team.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/model/TeamList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/main/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/Battle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/BattleField.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/Event.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/EventThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/Group$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/Group.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/GroupTaskThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/Hero.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/Match.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/Plan.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/position/Carry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/position/Hardsupport.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/position/Mid.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/position/Offlane.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/match/position/Support.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/model/Player.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/model/Team.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/EsportsManager/util/JdbcUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Nico.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EsportsManager.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/Battle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/BattleField.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/Event.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/EventThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/Group.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/GroupTaskThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/Hero.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/Match.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/Plan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/position/Carry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/position/Hardsupport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/position/Mid.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/position/Offlane.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/match/position/Support.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/Player.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/Team.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/JdbcUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -514,12 +463,20 @@
       <workItem from="1510501592304" duration="7224000" />
       <workItem from="1510775670293" duration="518000" />
       <workItem from="1510776246413" duration="178000" />
-      <workItem from="1510776441682" duration="1202000" />
+      <workItem from="1510776441682" duration="1324000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1510777686396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510777686396</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200053000" />
+    <option name="totallyTimeSpent" value="200175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -560,7 +517,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
